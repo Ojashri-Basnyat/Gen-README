@@ -92,7 +92,7 @@ async function init() {
         // Prompt Inquirer questions
         const userResponses = await inquirer.prompt(questions);
         console.log("Your responses: ", userResponses);
-        console.log("Thank you for your responses! Fetching your Github data next..."):
+        console.log("Thank you for your responses! Fetching your Github data next...");
 
         // Call GitHub api for use info
         const userInfo = await api.getUser(userResponses);
