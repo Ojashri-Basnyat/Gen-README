@@ -4,7 +4,7 @@ function generateMarkdown(userResponses, userInfo) {
     let draftToC = `## Table of Contents`;
 
     if (userResponses.installation !== '') { draftToC += `
-* [Installation](#installation)` };
+  * [Installation](#installation)` };
 
 if (userResponses.usage !== '') { draftToC += `
   * [Usage](#usage)` };
