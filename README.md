@@ -36,7 +36,8 @@ MIT License
 ##Questions? 
 
 If you have any questions about the project, contact me at: basnyat.ojashri@gmail.com 
-Check out rest of my work on GitHub via: Ojashri-Basnyat
+
+Check out rest of my work on GitHub via: [Ojashri-Basnyat] (https://github.com/Ojashri-Basnyat)
 
 
 
